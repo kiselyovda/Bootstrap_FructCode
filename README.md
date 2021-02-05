@@ -1,6 +1,6 @@
 # FructCode: Курс Bootstrap 3
 
-![screenshot](Untitled.png)
+![](screenshots/Untitled.png)
 
 class `container-fluid` — растягивает <div> на всю длину страницы
 
@@ -17,7 +17,7 @@ class `row` — убирает отступы внутри контейнера
 
 class `col` — создает 12-ти колоночную сетку
 
-![screenshot](Untitled_1.png)
+![](screenshots/Untitled%201.png)
 
 class `hidden-` (-те же параметры, что и у `col`) — скрывать при определённых разрешениях
 

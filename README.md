@@ -17,7 +17,7 @@ class `row` — убирает отступы внутри контейнера
 
 class `col` — создает 12-ти колоночную сетку
 
-![screenshot](Untitled 1.png)
+![screenshot](Untitled_1.png)
 
 class `hidden-` (-те же параметры, что и у `col`) — скрывать при определённых разрешениях
 

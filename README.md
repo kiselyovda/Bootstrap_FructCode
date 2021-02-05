@@ -1,6 +1,6 @@
 # FructCode: Курс Bootstrap 3
 
-![screenshot](sUntitled.png)
+![screenshot](Untitled.png)
 
 class `container-fluid` — растягивает <div> на всю длину страницы
 
